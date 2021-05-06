@@ -1,0 +1,11 @@
+requests
+boto3
+pystac
+rasterio
+pyproj
+matplotlib
+numpy
+pandas
+fsspec
+s3fs
+pystac

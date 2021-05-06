@@ -1,0 +1,18 @@
+name: isdasoil-tutorial
+channels:
+  - conda-forge
+  - pkgs/main
+dependencies:
+  - python=3.7.*
+  - gdal
+  - matplotlib
+  - notebook
+  - rasterio
+  - pyproj
+  - pandas
+  - fsspec
+  - requests
+  - s3fs
+  - scipy
+  - boto3
+  - pystac=0.5.4
