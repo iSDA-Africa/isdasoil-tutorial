@@ -3,7 +3,6 @@ boto3==1.17.58
 pystac==0.5.6
 rasterio==1.2.2
 pyproj==3.0.1
-matplotlib==3.4.1
 numpy==1.20.2
 pandas==1.2.4
 fsspec==2021.4.0
